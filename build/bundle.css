@@ -71,11 +71,9 @@ html{-webkit-tap-highlight-color:transparent}body{margin:0}a{text-decoration:non
 }
 .resultIcon[data-v-6c2dd066] {
     color: #fff;
-    background-color: #38f;
-    font-size: 3rem;
+    font-size: 4.5rem;
     padding: 1rem;
     border-radius: 50%;
-    margin-bottom: 20px;
 }
 .infoWrap[data-v-6c2dd066] {
     padding: 10px;
